@@ -1,5 +1,17 @@
-# Unsent. 💗
-**Remember your why. Reclaim your peace. Rediscover yourself.**
+# Unsent. 
+**Remember your why & focus on your healing.**
+
+## Application Screenshots
+
+### Homepage
+![Unsent Homepage](Unsent-home.png)
+
+### My Support Circle Page
+![Unsent Support Circle](Unsent-my-support-circle.png)
+
+### My Unsent Letter's Page
+![Unsent Letter's](Unsent-unsent-letters.png)
+
 
 A local-first full-stack **Java Spring Boot** project for personal boundaries, relationship transitions, emotional reflection, supportive habits, and rebuilding everyday life. Built for friendships, romantic relationships, family dynamics, and other connections.
 
